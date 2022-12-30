@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/78pvcto8issgwr0x?svg=true)](https://ci.appveyor.com/project/JMatweewa/pattern-232)
